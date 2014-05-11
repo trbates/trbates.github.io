@@ -1,3 +1,6 @@
 name: Thomas Bates
 markdown: kramdown
 highlighter: pygments
+
+# Google Analytics
+google_analytics_tracking_id: UA-50876102-1
