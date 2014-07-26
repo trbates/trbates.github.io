@@ -11,7 +11,7 @@ I recently had the opportunity to evaluate the new [Xamarin.Forms](http://xamari
 
 Xamarin has started something that has tremendous potential, but I don't think you should switch to Xamarin.Forms just yet.  The potential to construct your UIs using code or XAML and when that code is then compiled to each platform with platform-specific native UI elements is huge.  The general idea is that your development is independent of the target platform.  Within in Xamarin.Forms the platform-specific [Renderers](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/custom-renderer/) take on the task of choosing which UI element to draw on the screen.
 
-The following bad parts are reasons I believe Xamarin.Forms is not ready, but hope they will have addressed in future releases.
+###The following bad parts are reasons I believe Xamarin.Forms is not ready, but hope they will have addressed in future releases.
 
 ####Lack of documentation
 
